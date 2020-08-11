@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-proxy:v1.14.1
+FROM k8s.gcr.io/kube-proxy:v1.18.6
 MAINTAINER fanever
